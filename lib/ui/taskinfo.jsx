@@ -127,7 +127,7 @@ var TaskInfo = React.createClass({
             Are you sure you wish to rerun this task?
             This will cause a new run of the task to be created. It will only
             succeed if the task hasn't passed it's deadline. Notice that this
-            may interfere with listeners who only expects this tasks to be
+            may interfere with listeners who only expect this task to be
             resolved once.
           </ConfirmAction>&nbsp;
           <ConfirmAction buttonSize="xsmall"
